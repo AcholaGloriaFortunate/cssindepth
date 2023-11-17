@@ -1,0 +1,44 @@
+.a:active, a:active{
+    background-color: rebeccapurple;
+    color: blue;
+    text-align: center;
+}
+.a:hover, a:hover{
+    color: pink;
+    font-size: 30px;
+}
+.a:visited, a:visited{
+    color:red;
+    text-decoration: underline;
+
+}
+.contain{
+    gap: 2rem;
+    display: inline-flex;
+}
+.visited a:visited{
+    color: coral;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.visited{
+    display: flex;
+    gap:2rem
+}
+.hover a:hover{
+    color: rgb(0, 255, 85);
+}
+.hover{
+    display: flex;
+    gap:2rem
+    }
+.active a:active{
+    color: rgb(174, 52, 11);
+}
+.active{
+    display: flex;
+    gap:2rem
+}

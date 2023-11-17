@@ -1,0 +1,33 @@
+.left-align{
+    text-align: left;
+    text-shadow: 2px 2px red;
+
+}
+.right-align{
+    text-align: right;
+    text-decoration-line: underline;
+}
+.center{
+    text-align: center;
+}
+.you{
+    text-align: justify;
+}
+.purple{
+    color: blueviolet;
+    text-shadow: 2px 2px red;
+
+}
+.red{
+    color: darkred;
+    text-indent: 50px;
+    letter-spacing: 5px
+}
+.green{
+    color: darkgreen;
+    text-decoration-line: overline;
+}
+.u{
+    text-decoration-line: line-through;
+
+}
